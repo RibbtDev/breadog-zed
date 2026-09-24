@@ -14,11 +14,7 @@ Or set it in `settings.json`:
 
 ```json
 {
-  "theme": {
-    "mode": "light",
-    "light": "Breadog",
-    "dark": "One Dark"
-  }
+  "theme": "Breadog"
 }
 ```
 

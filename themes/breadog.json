@@ -130,6 +130,12 @@
         "predictive": "#9a8878",
         "predictive.background": "#00000000",
         "predictive.border": "#d4c7bc",
+        "pane.focused_border": "#00000000",
+        "pane_group.border": "#d4c7bc",
+        "panel.indent_guide": "#ddd2c8",
+        "panel.indent_guide_active": "#baa99d",
+        "panel.indent_guide_hover": "#baa99d",
+        "editor.document_highlight.bracket_background": "#005cb426",
         "players": [
           {
             "cursor": "#362c24",
@@ -169,11 +175,11 @@
         ],
         "syntax": {
           "comment": {
-            "color": "#8a7868",
+            "color": "#736354",
             "font_style": "italic"
           },
           "comment.doc": {
-            "color": "#7a6a5c",
+            "color": "#6e5d4f",
             "font_style": "italic"
           },
           "keyword": {
@@ -195,13 +201,13 @@
             "color": "#006a78"
           },
           "number": {
-            "color": "#ae6000"
+            "color": "#9a5500"
           },
           "boolean": {
-            "color": "#ae6000"
+            "color": "#9a5500"
           },
           "constant": {
-            "color": "#ae6000"
+            "color": "#9a5500"
           },
           "function": {
             "color": "#005cb4"
@@ -210,7 +216,7 @@
             "color": "#005cb4"
           },
           "function.builtin": {
-            "color": "#0074e1"
+            "color": "#0068cc"
           },
           "constructor": {
             "color": "#8b4c00"
@@ -249,7 +255,7 @@
             "color": "#8b4c00"
           },
           "variant": {
-            "color": "#ae6000"
+            "color": "#9a5500"
           },
           "operator": {
             "color": "#514337"
@@ -302,7 +308,7 @@
             "font_style": "italic"
           },
           "hint": {
-            "color": "#7a6a5c"
+            "color": "#6e5d4f"
           }
         }
       }
