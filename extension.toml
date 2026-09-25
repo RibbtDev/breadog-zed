@@ -1,6 +1,6 @@
 id = "breadog-theme"
 name = "Breadog Theme"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["Rohit Kumar"]
 description = "A warm, light theme ported from the Breadog terminal color scheme."
