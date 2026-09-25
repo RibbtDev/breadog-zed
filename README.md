@@ -4,7 +4,6 @@ A warm, light theme for [Zed](https://zed.dev), ported from the Breadog terminal
 
 <img width="1470" height="956" alt="Screenshot 2026-09-25 at 16 07 44" src="https://github.com/user-attachments/assets/98a8e2fd-422a-4eac-8d64-102100a305d4" />
 
-
 Breadog pairs a soft beige background (`#f1ebe6`) with dark brown text (`#362c24`). The built-in terminal uses the original 16 Breadog colors, so it matches Ghostty, iTerm2, and other terminals that ship Breadog.
 
 ## Install
