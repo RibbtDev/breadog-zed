@@ -1,6 +1,6 @@
 # Breadog for Zed
 
-A warm, light theme for [Zed](https://zed.dev), ported from the Breadog terminal color scheme.
+A warm, light theme for [Zed](https://zed.dev/extensions/breadog-theme), ported from the Breadog terminal color scheme.
 
 <img width="1470" height="956" alt="Screenshot 2026-09-25 at 16 07 44" src="https://github.com/user-attachments/assets/98a8e2fd-422a-4eac-8d64-102100a305d4" />
 
